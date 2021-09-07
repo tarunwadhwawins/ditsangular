@@ -12,7 +12,6 @@ import { ServicesComponent } from './components/services/services.component';
 import { MethodologyComponent } from './components/methodology/methodology.component';
 import { UiComponentModule } from '../ui-component/ui-component.module';
 
-
 @NgModule({
   declarations: [
     HomeComponent,

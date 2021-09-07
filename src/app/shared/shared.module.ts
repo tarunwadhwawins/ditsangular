@@ -21,6 +21,7 @@ import { AppRoutingModule } from '../app-routing.module';
   exports: [
     HeaderComponent,
     LayoutComponent,
+    FooterComponent,
     UiComponentModule
   ]
 })
